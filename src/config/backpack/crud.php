@@ -454,16 +454,16 @@ return [
 
     'view_namespaces' => [
         'buttons' => [
-            'crud::buttons', // falls back to 'resources/views/vendor/hacoidev/crud/buttons'
+            'crud::buttons', // falls back to 'resources/views/vendor/khophim8k/crud/buttons'
         ],
         'columns' => [
-            'crud::columns', // falls back to 'resources/views/vendor/hacoidev/crud/columns'
+            'crud::columns', // falls back to 'resources/views/vendor/khophim8k/crud/columns'
         ],
         'fields' => [
-            'crud::fields', // falls back to 'resources/views/vendor/hacoidev/crud/fields'
+            'crud::fields', // falls back to 'resources/views/vendor/khophim8k/crud/fields'
         ],
         'filters' => [
-            'crud::filters', // falls back to 'resources/views/vendor/hacoidev/crud/filters'
+            'crud::filters', // falls back to 'resources/views/vendor/khophim8k/crud/filters'
         ],
     ],
 
